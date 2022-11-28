@@ -1,2 +1,16 @@
+.body1{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    margin: px;
+}
 
-
+.body2{
+    border: solid 1px black;
+    margin: 10px;
+    width: 25%;
+    text-align: center;
+    background-color: orange;
+    border-radius: 10px;
+}
