@@ -1,0 +1,32 @@
+.templetbody{
+    width: 50%;
+    text-align: center;
+    border: solid 3px none;
+    border-radius: 5px;
+    margin-left: 25%;
+}
+
+.location{
+    margin-top: 0px;
+    background-color: #424242;
+    border-radius: 5px;
+    color :whitesmoke;
+}
+
+.templetbody{
+    background-color:#01579b;
+}
+
+.otherData{
+    color: whitesmoke;
+}
+
+.innertempletBody{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.data2{
+    margin-right: 5px;
+}
